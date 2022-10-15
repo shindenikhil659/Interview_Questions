@@ -848,6 +848,12 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+ {
  
+    "id" : "160",
+    "question" : "What are your greatest strengths?",
+    "answerLink" : "I’m a natural problem solver. I find it rewarding to dig deep and uncover solutions to challenges. It’s like solving a puzzle"
+        
+},
   ]
